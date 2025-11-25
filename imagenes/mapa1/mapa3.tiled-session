@@ -1,0 +1,39 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "../mapa1/mundo.tsx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "../mapa1/mundo.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.015625,
+            "scaleInEditor": 0.015625
+        },
+        "../mapa3.tmx": {
+            "scale": 0.125,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 2360,
+                "y": 2736
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/Juan Rios/Desktop/mundo/PNG",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 256,
+    "map.tileWidth": 256,
+    "openFiles": [
+        "../mapa3.tmx",
+        "../mapa1/mundo.tsx"
+    ],
+    "project": "mapa3.tiled-project",
+    "recentFiles": [
+        "../mapa3.tmx",
+        "../mapa1/mundo.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.type": 1
+}

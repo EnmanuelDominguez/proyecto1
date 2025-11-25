@@ -1,0 +1,164 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Background Props.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "Base Color.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "Buildings.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "C:/Users/USER/Pictures/Games/platformer1/7 Levels/Tiled/1.tmx": {
+            "scale": 1.8375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 176.87074829931976,
+                "y": 151.83673469387756
+            }
+        },
+        "C:/Users/USER/Pictures/Games/platformer1/7 Levels/Tiled/1.tmx#4": {
+            "scaleInDock": 1
+        },
+        "C:/Users/USER/Pictures/Games/platformer1/7 Levels/Tiled/1.tmx#GUI": {
+            "scaleInDock": 1
+        },
+        "C:/Users/USER/Pictures/Games/platformer1/7 Levels/Tiled/1.tmx#Tileset": {
+            "scaleInDock": 1
+        },
+        "C:/Users/User/Downloads/kenney_pixel-platformer/Tiled/tilemap-example-a.tmx": {
+            "scale": 2.5800213675213675,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 233.91279141993456,
+                "y": 184.88218973870553
+            }
+        },
+        "C:/Users/User/Downloads/kenney_pixel-platformer/Tiled/tileset-characters.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/User/Downloads/kenney_pixel-platformer/Tiled/tileset-tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/User/Downloads/ppigame-master/ppigame-master/mapas/mapa1/asa.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/User/Downloads/ppigame-master/ppigame-master/mapas/mapa1/mapa1.tmx": {
+            "scale": 0.8642361111111111,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1124.6926476496583,
+                "y": 435.066291683407
+            }
+        },
+        "C:/Users/User/Downloads/ppigame-master/ppigame-master/mapas/mapa1/si.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "C:/Users/User/Downloads/ppigame-master/ppigame-master/mapas/mapa1/tileset1.tsx": {
+            "scaleInDock": 3
+        },
+        "C:/Users/User/Downloads/ppigame-master/ppigame-master/mapas/mapa1/tileset2.tsx": {
+            "scaleInDock": 3
+        },
+        "Fondos.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "Frontal Fog.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "Mid Fog.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "MockUp-01.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "Props-01.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "Tiles.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "asa.tsx": {
+            "scaleInDock": 1
+        },
+        "grama.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "mapa1.1.tmx": {
+            "scale": 0.16987847222222222,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3682.0439448134903,
+                "y": 1165.5390904445578
+            }
+        },
+        "mapa1.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1065,
+                "y": 185
+            }
+        },
+        "si.tsx": {
+            "scaleInDock": 1
+        },
+        "tileset1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 3
+        },
+        "tileset2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        }
+    },
+    "last.exportedFilePath": "C:/Users/User/Desktop/InvasionChatarra",
+    "last.imagePath": "C:/Users/User/Downloads/FreeCuteTilesetv1/FreeCuteTileset",
+    "map.lastUsedExportFilter": "Archivos de mapas de Tiled (*.tmx *.xml)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileWidth": 144,
+    "openFiles": [
+    ],
+    "project": "mapa1.tiled-project",
+    "recentFiles": [
+        "Fondos.tsx",
+        "mapa1.tmx",
+        "C:/Users/User/Downloads/ppigame-master/ppigame-master/mapas/mapa1/asa.tsx",
+        "C:/Users/User/Downloads/ppigame-master/ppigame-master/mapas/mapa1/si.tsx",
+        "mapa1.1.tmx",
+        "C:/Users/User/Downloads/kenney_pixel-platformer/Tiled/tilemap-example-a.tmx",
+        "C:/Users/User/Downloads/ppigame-master/ppigame-master/mapas/mapa1/mapa1.tmx",
+        "MockUp-01.tsx",
+        "Tiles.tsx",
+        "Props-01.tsx",
+        "Buildings.tsx",
+        "Mid Fog.tsx"
+    ],
+    "resizeMap.removeObjects": false,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.type": 1
+}
